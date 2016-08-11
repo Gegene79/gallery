@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# ficheros de Visual Code
+.vscode
+typings/
+jsconfig.json
+launch.json
+
+# ficheros Mac OSX
+.DS_Store
